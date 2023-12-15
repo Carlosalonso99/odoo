@@ -1,0 +1,2 @@
+python odoo-bin odoo.conf
+python odoo-bin odoo.conf -i base
